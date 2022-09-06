@@ -12,6 +12,8 @@ img {
     width: 500px;
     height: 600px;
     background-color:#F5EDDC ;
+    /* padding: 1px; */
+    overflow: hidden;
 }
 .frame{
     width: 500px;
@@ -25,5 +27,18 @@ img {
     height: 150px;
     background-color: #CFD2CF;
     margin: 20px auto;
+
+}
+.two{
+    width: 475px;
+    height: 200px;
+    background-color: #EB1D36;
+    margin: 0 auto 20px;
+}
+.three{
+    width: 91%;
+    height: 28%;
+    background-color:#A2B5BB ;
+    margin: auto;
 
 }
