@@ -2,3 +2,14 @@ img {
     width: 500px;
     height: 500px;
 }
+/* #F5EDDC Primary
+#CFD2CF Secondary
+#A2B5BB Accent 
+#EB1D36 Accent
+*/
+
+.canvas {
+    width: 500px;
+    height: 600px;
+    background-color:#F5EDDC ;
+}
