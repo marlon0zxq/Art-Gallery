@@ -30,6 +30,7 @@ img {
     filter: blur(1px);
     box-shadow: 3px 3px #CFD2CF;
     border-radius: 9px;
+    transform: rotate(0.6deg);
 
 }
 .two{
@@ -40,6 +41,7 @@ img {
     filter: blur(1px);
     box-shadow: 3px 3px 3px #EB1D36;
     border-radius: 8px 10px;
+    transform: rotate(4.0deg);
 }
 .three{
     width: 91%;
@@ -49,5 +51,6 @@ img {
     filter: blur(2px);
     box-shadow: 5px 5px 5px #A2B5BB;
     border-radius: 30px 25px 60px 12px;
+    transform: rotate(-0.2deg);
 
 }
